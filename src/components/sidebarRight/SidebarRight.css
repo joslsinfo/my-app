@@ -1,0 +1,37 @@
+.sidebar-right {
+    width: 200px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    height: 100vh; 
+    box-shadow: -2px 0 5px rgba(0,0,0,0.1);
+    position: fixed; 
+    top: 0;
+    right: 0;
+    overflow-y: auto; 
+  }
+  
+  .sidebar-right h1 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    margin-top: 80px;
+  }
+  
+  .sidebar-right ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar-right li {
+    margin-bottom: 10px;
+  }
+  
+  .sidebar-right a {
+    color: #333;
+    text-decoration: none;
+    font-size: 1.1em;
+  }
+  
+  .sidebar-right a:hover {
+    color: #007bff;
+  }
+  

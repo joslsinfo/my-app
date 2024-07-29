@@ -1,0 +1,21 @@
+.content {
+    margin-left: 220px; 
+    margin-right: 220px; 
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    min-height: 100vh; 
+    overflow-y: auto; 
+  }
+  
+  .content h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    margin-top: 0px;
+  }
+  
+  .content p {
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  
