@@ -12,7 +12,7 @@ import FloatingButton from "./components/floatingButton/FloatingButton";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="my-app">
       <div className="app">
         <Navbar />
         <div className="main-content">
