@@ -3,7 +3,8 @@
     height: 300px;
     padding: 20px;
     padding-bottom: 200px;
-    background-color: #f1f1f1;
+    /* background-color: #f1f1f1; */
+    background-color: #ccc;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     position: fixed;
@@ -24,7 +25,8 @@
     border: 1px solid #ccc;
     border-radius: 5px;
     box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1);
-    background-color: #fff;
+    /* background-color: #fff; */
+    background-color: #ccc;
     color: #000;
   }
   
@@ -32,6 +34,8 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
+    background-color: #ccc;
+    width: 300px;
   }
   
   .keypad button {
